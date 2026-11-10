@@ -196,4 +196,4 @@ This repository serves as the official landing page for Exmouth. The software is
 **Get the most recent version of Exmouth today!**
 
 ---
-**Last updated:** 2026-11-10 04:24:27 UTC
+**Last updated:** 2026-11-10 13:06:29 UTC
